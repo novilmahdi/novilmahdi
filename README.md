@@ -2,13 +2,13 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
   <div id="badges">
-  <a href="your-youtube-URL">
+  <a href="https://www.instagram.com/novil.28">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
      <a href="https://www.linkedin.com/in/novil-nvl-2238a323b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://pelajaransekolahpintar.blogspot.com/">
     <img src="https://img.shields.io/badge/Blogger-orange?style=for-the-badge&logo=blogger&logoColor=white" alt="Blogger Badge"/>
   </a>
 </div>
