@@ -8,7 +8,7 @@
      <a href="https://www.linkedin.com/in/novil-nvl-2238a323b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://pelajaransekolahpintar.blogspot.com/">
+  <a href="https://savekoding.blogspot.com/">
     <img src="https://img.shields.io/badge/Blogger-orange?style=for-the-badge&logo=blogger&logoColor=white" alt="Blogger Badge"/>
   </a>
 </div>
